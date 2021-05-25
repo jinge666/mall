@@ -1,0 +1,19 @@
+<template>
+  <div class="feature">
+    <a href="https://act.mogujie.com/zzlx67">
+      <img src="~assets/img/home/recommend_bg.jpg" alt="图片正在加载中">
+    </a>
+  </div>
+</template>
+
+<script>
+export default {
+name:'HomeFeature',
+}
+</script>
+
+<style>
+.feature img{
+  width: 100%;
+}
+</style>
